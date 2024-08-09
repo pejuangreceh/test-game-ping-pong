@@ -62,3 +62,4 @@ while run:
         player2.reset()
         display.update()
     time.delay(FPS)
+#ini adalah perubahan
